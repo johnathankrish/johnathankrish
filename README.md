@@ -5,6 +5,7 @@
 ## Interested In:
 - Programming
 - Software development
+- .Net Development
 - Embedded Systems
 - Internet Of Things
 - PCB Design
